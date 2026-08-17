@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 .idea
 Programmers.iml
+CodingTest.iml
 
 ### Eclipse ###
 .apt_generated
