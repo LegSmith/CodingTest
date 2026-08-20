@@ -6,7 +6,7 @@
 
 | 단계 | 코스 | 진행 | 상태 |
 |---|---|---|---|
-| 1 | [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training) | 106 / 124 `[█████████████████░░░]` 85% | 🟢 진행 중 |
+| 1 | [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training) | 107 / 124 `[█████████████████░░░]` 86% | 🟢 진행 중 |
 | 2 | [코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner) | 0 / 100 | ⬜ 시작 전 |
 | 3 | [알고리즘 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) | 0 / 47 | ⬜ 시작 전 |
 

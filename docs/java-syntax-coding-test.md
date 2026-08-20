@@ -2,7 +2,7 @@
 
 바이브코딩만 하다 보니 까먹은 기본 문법들 모음. 필요할 때 Ctrl+F로 찾아보는 용도.
 
-> Stream 관련 문법은 [java-stream.md](java-stream.md) 참고.
+> Stream 관련 문법은 [java-stream.md](java-stream.md), String ↔ char 관계는 [java-string-char.md](java-string-char.md) 참고.
 
 ## 1. 배열 (Array)
 
