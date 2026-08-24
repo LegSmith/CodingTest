@@ -1,10 +1,19 @@
-# 1단계 : 코딩 기초 트레이닝 (107 / 124)
+# 1단계 : 코딩 기초 트레이닝 (108 / 124)
 
 [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved) 문제를 하루 5문제씩 풀며 기록합니다.
 
 날짜(`day`)를 클릭하면 펼쳐지고, 문제 번호를 클릭하면 풀이 코드로 이동합니다.
 
 <details open>
+<summary><b>22일차</b> (108)</summary>
+
+| # | 문제 |
+|---|---|
+| 108 | [조건 문자열](../src/basic/day22/Solution108.java) |
+
+</details>
+
+<details>
 <summary><b>21일차</b> (107)</summary>
 
 | # | 문제 |
