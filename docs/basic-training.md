@@ -1,10 +1,20 @@
-# 1단계 : 코딩 기초 트레이닝 (108 / 124)
+# 1단계 : 코딩 기초 트레이닝 (110 / 124)
 
 [코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&page=1&statuses=unsolved) 문제를 하루 5문제씩 풀며 기록합니다.
 
 날짜(`day`)를 클릭하면 펼쳐지고, 문제 번호를 클릭하면 풀이 코드로 이동합니다.
 
 <details open>
+<summary><b>23일차</b> (109 ~ 110)</summary>
+
+| # | 문제 |
+|---|---|
+| 109 | [두 수의 합](../src/basic/day23/Solution109.java) |
+| 110 | [수열과 구간 쿼리2](../src/basic/day23/Solution110.java) |
+
+</details>
+
+<details>
 <summary><b>22일차</b> (108)</summary>
 
 | # | 문제 |
